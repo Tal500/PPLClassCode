@@ -1,0 +1,27 @@
+{
+  "name": "PPLClassCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beneyal/PPLClassCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beneyal/PPLClassCode/issues"
+  },
+  "homepage": "https://github.com/beneyal/PPLClassCode#readme",
+  "dependencies": {
+    "@types/ramda": "^0.25.28",
+    "assert": "^1.4.1",
+    "deep-equal": "^1.0.1",
+    "ramda": "^0.25.0",
+    "s-expression": "^3.0.3"
+  }
+}
